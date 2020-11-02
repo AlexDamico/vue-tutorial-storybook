@@ -1,10 +1,16 @@
 # vue-tutorial-storybook
 
 ## Project Setup
-`yarn`
+```
+yarn
+```
 
 ### Compiles and hot-reloads for development
-`yarn storybook`
+```
+yarn storybook
+```
 
 ### Compiles and minifies for production
-`yarn build-storybook`
+```
+yarn build-storybook
+```
